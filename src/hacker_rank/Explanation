@@ -1,0 +1,10 @@
+// String introduction--> hacker Rank
+
+.compareTo() --> this method works as like
+   str --> String1
+   str1 --> String2
+   if we write like:
+   str.compareTo(str1)--> this means that
+            if str>str1 then return (+ve number);
+            if str<str1 then return (-ve number);
+            if s1==s2 then return 0;
